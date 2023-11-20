@@ -158,5 +158,6 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for students of Y
   
 
 ---
-
+php book 
+https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/php/FastPHP.pdf
   
